@@ -1,0 +1,17 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "sudoku-solver-haskell:lib"
+
+    - path: "./app/Main.hs"
+      component: "sudoku-solver-haskell:exe:sudoku-solver-haskell-exe"
+
+    - path: "./app/Main.hs"
+      component: "sudoku-solver-haskell:exe:sudoku-solver-haskell-exe"
+
+    - path: "./app/Paths_sudoku-solver-haskell.hs"
+      component: "sudoku-solver-haskell:exe:sudoku-solver-haskell-exe"
+
+    - path: "./test"
+      component: "sudoku-solver-haskell:test:sudoku-solver-haskell-test"
+

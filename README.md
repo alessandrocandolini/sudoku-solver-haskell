@@ -1,3 +1,5 @@
+[![CI](https://github.com/alessandrocandolini/sudoku-solver-haskell/actions/workflows/ci.yml/badge.svg)](https://github.com/alessandrocandolini/sudoku-solver-haskell/actions/workflows/ci.yml) [![codecov](https://codecov.io/gh/alessandrocandolini/sudoku-solver-haskell/branch/main/graph/badge.svg?token=oYQqK8NGhh)](https://codecov.io/gh/alessandrocandolini/sudoku-solver-haskell)
+
 # sudoku-solver-haskell
 
 ## How to build and run locally
